@@ -1,2 +1,2 @@
-# timauba.github.io
-Personal Website
+# Personal Website/Portfolio timauba.github.io
+This is my personal website. WIP
